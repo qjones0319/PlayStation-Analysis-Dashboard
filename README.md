@@ -1,2 +1,12 @@
-# PlayStation-Analysis-Dashboard
+# PlayStation Analysis Dashboard
 I have developed a PlayStation dashboard using MS Excel, MySQL, and Power BI to provide a comprehensive overview of sales, best games, and the top highest rated games. For my first analyst project, this was a fun and engaging learning experience for me especially using all the tools that made this project doable with precise steps and execution.
+
+### Software Tools
+- MS Excel: The first initial tool I used was MS Excel. The main purpose of Excel is to extract web data and clean it to make my data as coherent as possible. Additionally, I used the power query editor to make the most adjustments to handle all inconsistences as well. This was a good opportunity to work with randomized messy data to gain the experience and skills for data clean up.
+  
+- MySQL: I used SQL before as a backburner for a web aapplication; however, I never used it in terms of manipulating data for analysis. The main role for using SQL for my project was to create queries of specific data from my excel tables to explicitly display the information rather than having to search through a ton of rows. Something that I never did before was converting my excel files into schemas. I converted all my files into schemas and that proceeded to write the queries I need. Once I created my statements, I exported them as CSV files and save them for later to load them into Power Bi.
+
+- PowerBi: This was my first time using PowerBi individually prior to self teaching myself the basics. I was hand drawing a mini prototype of how I wanted my final dashboard to look. It was a very quick rough sketch so I can have something to go by instead of just trying to create a layout without any guidance. Once I had envisioned my layout, I loaded in all of my CSV files from using SQL and started to create different visuals with consistent color formatting to convey a user-friendly dashboard. I also created buttons for user navigation as well to give them the ability to look at any data to their liking.
+
+### Conclusion
+After working on my first personal project, I would like to say that I really enjoyed it. From an inital intriguing idea to a complete project that I'm very proud of, I feel satisfied with the growth that I developed. Using all the skills that I had to learn to provide my finish product wasn't too bad either. Rather than feeling like this was a gruesome process, I devoted time throughout each day to pace myself and provide little to no burnout. This is a start to my Data Analyst career and I'm very excited to see what is more to come for me!
